@@ -88,7 +88,7 @@ This chatbot provides a beautiful ChatGPT-style interface with real-time AI conv
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/sb-chatbot.git
+git clone  https://github.com/Ali-Ashor/Chat-Bot-AI-Project-.git
 ```
 
 ---
