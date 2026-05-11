@@ -184,7 +184,8 @@ This project demonstrates:
 
 ---
 #  Final UI
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0a659227-a51c-4c52-ba99-62399a859826" />
+<img width="1362" height="722" alt="image" src="https://github.com/user-attachments/assets/0cebb051-3217-4fab-ba12-0d299e51ffa1" />
+
 ---
 
 # 👨‍💻 Developer
