@@ -183,6 +183,9 @@ This project demonstrates:
 ✅ Real-Time AI Communication  
 
 ---
+#  Final UI
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0a659227-a51c-4c52-ba99-62399a859826" />
+---
 
 # 👨‍💻 Developer
 
